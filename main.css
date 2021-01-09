@@ -4,6 +4,7 @@ body {
     padding: 0;
     font-family: sans-serif;
     background-color: #cae4db;
+    text-align: center;
 }
 
 h1 {
@@ -45,4 +46,13 @@ button {
     border-radius:5px;
  color: aliceblue;
     outline:none;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    width:100px;
+   margin-left:50px;
 }
